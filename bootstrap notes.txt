@@ -1,0 +1,52 @@
+the 4 type of grid classes;
+ 1-xs for phone
+ 2-sm for tablet
+ 3-md for desktop
+ 4-lg for desktop...!!!
+ container;
+ container is used to create a boxed content
+ two 2 types of container;
+ 1=container
+ 2=conyainer-fluid
+ what is jumbotron?
+ a jumbotron is displayed as a grey box with rounded corners.it also large font size text inside. use <div> element with class.
+ what is page header?
+ page-header class adds a horizontal line under the heading.
+ bootstrap typography;
+ bootstrap includes simple and easy customized typography for hradings ,body text.
+ bootstrap table;
+ bootstrap table has a light padding and only horizontal deviders..
+ thw 4 bootstrap classes of table;
+ 1=table-bordered
+ 2=table-hover
+ e=tablw-striped
+ 4=table-condensed
+bootstrap 6 text classes;
+ 1=text-primary
+ 2=text-info
+ 3=text-danger
+ 4=text-warning
+ 5=text-success
+ 6=text-muted
+ bootstrap buttons;
+ bootstrap provide 7 styles of buttons...,
+ *btn
+ *btn-primaary
+ *btn-default
+ *btn-success
+ *btn-imfo
+ *btn-warning
+ *btn-danger
+ *btn-link
+ bootstrap buttons groups;
+ bootstrap allowsyou to a series of buttons together..
+ bootstrap images;
+ bootstrap provides three styles of images...,
+ 1=img-rounded
+ 2=img circle
+ 3=img-thumbnail
+ responsive images;
+ responsive images automatically adjust to fit the size of the screen.
+ bootstrap wells;
+ wells class adds a rounded borded with a grey background color and some padding.
+ 
